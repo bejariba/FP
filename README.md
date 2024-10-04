@@ -17,3 +17,8 @@
    **negritas**
 _Texto italica_
 ***negritas italica***
+
+![Descripcion imagen]
+(https://www.santuon.com/content/images/size/w2000/2022/06/rubber_duck.jpg)
+
+![imagen].(https://www.mindovermachines.com/wp-content/uploads/2019/03/rubber-ducky-2-800x400.jpg)
